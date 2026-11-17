@@ -10,7 +10,7 @@ Link: https://link.springer.com/article/10.1007/s10950-026-10374-8
 
 The study evaluates machine learning methods for predicting PSA at different periods using earthquake magnitude, site conditions (Vs30), and epicentral source distance.
 
-**Model inputs:** Earthquake magnitude (M), Vs30, epicentral distance (Repi), and oscillator period (T).  
+**Model inputs:** Earthquake magnitude (M), Vs30, epicentral distance (Repi), and period (T).  
 **Model output:** Pseudo-spectral acceleration (PSA).
 Three period-specific trained models were selected.
 
