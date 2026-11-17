@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the associated journal article when using this repository."
+title: "Machine Learning-Based Prediction of PSA in Türkiye — MATLAB GUI"
+type: software
+authors:
+  - family-names: "Çoban"
+    given-names: "Kaan Hakan"
+# Add the published article DOI, correct authors, and release version before publishing.
